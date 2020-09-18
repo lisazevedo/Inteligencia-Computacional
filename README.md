@@ -1,5 +1,5 @@
 # Inteligencia-Computacional
 
-[menor-caminho.py](https://github.com/lisazevedo/Inteligencia-Computacional/menor-caminho.py) output example:
+[menor-caminho.py](https://github.com/lisazevedo/Inteligencia-Computacional/blob/master/menor-caminho.py) output example:
 
-![maze example](https://github.com/lisazevedo/Inteligencia-Computacional/maze-with-path.png)
+![maze example](https://github.com/lisazevedo/Inteligencia-Computacional/blob/master/maze-with-path.png)
